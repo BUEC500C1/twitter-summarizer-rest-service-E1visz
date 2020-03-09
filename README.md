@@ -76,6 +76,9 @@ twitter-summarizer-rest-service-E1visz created by GitHub Classroom
 2. You can download the video.  
    <img src="img/download.png">
 
+## AWS Deployment  
+
+I used the EC2 instance to deploy an ubuntu os an also move the local file to the cloud platform.  
 
 
 
