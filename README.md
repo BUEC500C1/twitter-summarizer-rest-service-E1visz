@@ -61,7 +61,7 @@ twitter-summarizer-rest-service-E1visz created by GitHub Classroom
    ```
 4. Open terminal/command window and navigate to folder where code was downloaded
 
-5. Run the "resttest.py", and start the website.
+5. Run the "resttest.py", and start the website at http://0.0.0.0:5000/.
 
 6. Enter the hashtag and download the video.  
 
@@ -72,9 +72,9 @@ twitter-summarizer-rest-service-E1visz created by GitHub Classroom
 
 
 1. The website page.  
-   <img src="img/Img result.png">
+   <img src="img/website.png">
 2. You can download the video.  
-   <img src="img/Video result.png">
+   <img src="img/download.png">
 
 
 
