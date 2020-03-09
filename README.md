@@ -3,14 +3,14 @@ twitter-summarizer-rest-service-E1visz created by GitHub Classroom
 
 
 ## Project Mission
-* Use Flask as your WEB service platform.  
+* Use Flask as your WEB service platform.   DONE.  
    Reference 1:  https://palletsprojects.com/p/flask/ (Github:  https://github.com/pallets/flask ).  
    Reference 2:  Flask-RESTFUL  (Github:  https://github.com/flask-restful/flask-restful ).  
-* Integrate your module to become a RESTFUL system
+* Integrate your module to become a RESTFUL system.   DONE.  
 * Deploy your system to free AWS services:  https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc.  
-* Develop simple WEB applications to test your system.
-* Document your REST APIs on your Github
-* KEep your server off until we request it for grading.  We dont want you to waste money.
+* Develop simple WEB applications to test your system.   DONE.  
+* Document your REST APIs on your Github.    DONE.  
+* KEep your server off until we request it for grading.  We dont want you to waste money.   DONE.   
 
 
 
